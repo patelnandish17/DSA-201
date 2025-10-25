@@ -63,6 +63,6 @@ Write your pseudocode here...
 
 ### Time Complexity
 - 
-
+O(N)
 ### Space Complexity
-- 
+- O(1)
